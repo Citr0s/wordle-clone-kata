@@ -1,1 +1,3 @@
-console.log('Ready!');
+import { Game } from "./Game";
+
+const game = Game.instance();
